@@ -1,0 +1,56 @@
+/* all */
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar-brand img {
+  width: 130px;
+  height: 28.1px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+.btn-outline-success {
+  background-color: green;
+}
+.btn-outline-success img {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
+
+a:hover {
+  opacity: 0.9;
+}
+
+.navbar .button button {
+  max-height: 35px;
+}
+.nextbox .noidung img {
+  width: 50px;
+  height: 50px;
+}
+
+.nextbox .noidung .box {
+  width: 380px;
+  height: 145px;
+}
+
+.nextbox .noidung .box {
+}
+.content .boxphai img {
+  width: 100%;
+  height: auto;
+}
+
+.nextbox2 .boxtrai2 a {
+  text-decoration: none;
+}
+.boxphai2 .list-group img {
+  max-width: 300px;
+}
+.list-group-item-action:hover {
+  cursor: pointer;
+}

@@ -54,3 +54,12 @@ a:hover {
 .list-group-item-action:hover {
   cursor: pointer;
 }
+.subcribe {
+  background-size: cover;
+  background-position: center;
+  background-image: url(./img/subscribe.jpg);
+}
+
+a {
+  text-decoration: none;
+}

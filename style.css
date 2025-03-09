@@ -21,10 +21,6 @@
   margin-right: 10px;
 }
 
-a:hover {
-  opacity: 0.9;
-}
-
 .navbar .button button {
   max-height: 35px;
 }
@@ -76,4 +72,7 @@ a {
 .blur {
   background-color: rgba(255, 255, 255, 0.29);
   backdrop-filter: blur(8px);
+}
+.custom-breadcrumb {
+  --bs-breadcrumb-divider: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8'><path d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/></svg>");
 }
